@@ -1,3 +1,9 @@
+BussinessPlace by Lior Cohen
+this is a site made to publish bussinesses in the easiest way possible to as many clients as possible
+you have in this project the database that holds all the users and api and functions and you have to start him up using the code stated below
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App]
