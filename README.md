@@ -1,57 +1,28 @@
 BussinessPlace by Lior Cohen
-this is a site made to publish bussinesses in the easiest way possible to as many clients as possible
+BussinessPlace is a site made to publish bussinesses in the easiest way possible to as many clients as possible
 you have in this project the database that holds all the users and api and functions and you have to start him up using the code stated below
+the entire project is builed with react
+in the projects you can create a new user select bussiness account or regular account then login with that user with the login button
+a bussiness account only can see the add card button using it you can add a new card
+you can add each card to your favorites and view it in you favorite cards page;
+you can see your created cards using my cards link
+make sure your in the right user to see all the functions the site has to offer
+a new registration is require a password that include a primary letter a small letter 8 minimun and one special letter only 4 account created by me dont follow that category;
+
+the main account "Admin" to see all functions is
+email: "Lior Cohen"
+password: "12345678"
+the bussiness account:
+email: "sigal200@gmail.com"
+password: "12345678"
+
+to start the clinet side please type ### "npm start" and wait a few seconds
+the project will open on [http://localhost:3000](http://localhost:3000) in the browser
+to combine the server side please enter ### "json-server db.json --port 8007"
+you can open [http://localhost:8007] to view the database in the browser.
+
+make sure you connect the database prior to the application start so thats youll get all the accounts and cards
 
 
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App]
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `json-server db.json --port 8007`
-runs the database linked to the visual studio
-open [http://localhost:8007] to view it in the browser.
-
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+for any kinds od questions call me by 0532799719 you can also see and click my number under the admin user
